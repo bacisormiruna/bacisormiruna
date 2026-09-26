@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @bacisormiruna
-- 🌱 I’m currently learning Computer Science at Technical University of Cluj Napoca.
-- 🎯 I’m a perfectionist with a passion for detail-oriented work.
-- 📫 You can reach me via gmail : mirunabacisor06@gmail.com
+### 👋 Hi, I'm Miruna (@bacisormiruna)
 
-<!---
-bacisormiruna/bacisormiruna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 Currently pursuing a Software Engineering Master's Degree at the Technical University of Cluj-Napoca
+- 🎯 A perfectionist with a passion for detail-oriented work
+- 📫 Reach me at: mirunabacisor06@gmail.com 
